@@ -1,0 +1,6 @@
+{
+  "name": "BAUST Student Application Management System (SAMS)",
+  "description": "Digital university student application, document verification, Q&A, and administrative workflow portal for Bangladesh Army University of Science and Technology (BAUST).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
